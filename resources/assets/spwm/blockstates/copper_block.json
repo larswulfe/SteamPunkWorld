@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "spwm:copper_block" }
+    }
+}

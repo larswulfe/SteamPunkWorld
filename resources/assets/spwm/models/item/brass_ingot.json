@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "spwm:items/brass_ingot"
+   }
+}
